@@ -1,0 +1,59 @@
+@media screen and (min-width: 200px) and (max-width: 321px) {
+  h6.MuiTypography-root {
+    font-size: 10px !important;
+  }
+}
+
+@media screen and (min-width: 322px) and (max-width: 336px) {
+  h6.MuiTypography-root {
+    font-size: 11px !important;
+  }
+}
+
+@media screen and (min-width: 337px) and (max-width: 352px) {
+  h6.MuiTypography-root {
+    font-size: 12px !important;
+  }
+}
+
+@media screen and (min-width: 353px) and (max-width: 368px) {
+  h6.MuiTypography-root {
+    font-size: 13px !important;
+  }
+}
+
+@media screen and (min-width: 369px) and (max-width: 384px) {
+  h6.MuiTypography-root {
+    font-size: 14px !important;
+  }
+}
+
+@media screen and (min-width: 385px) and (max-width: 399px) {
+  h6.MuiTypography-root {
+    font-size: 15px !important;
+  }
+}
+
+@media screen and (min-width: 400px) and (max-width: 415px) {
+  h6.MuiTypography-root {
+    font-size: 16px !important;
+  }
+}
+
+@media screen and (min-width: 416px) and (max-width: 431px) {
+  h6.MuiTypography-root {
+    font-size: 17px !important;
+  }
+}
+
+@media screen and (min-width: 432px) and (max-width: 447px) {
+  h6.MuiTypography-root {
+    font-size: 18px !important;
+  }
+}
+
+@media screen and (min-width: 448px) and (max-width: 462px) {
+  h6.MuiTypography-root {
+    font-size: 19px !important;
+  }
+}
